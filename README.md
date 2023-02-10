@@ -1,7 +1,7 @@
 ### Olá, meu nome é Eduardo 👋
 
 
-- 🔭 Atualmente estou desenvolvendo projeto para aplicação mobile
+- 🔭 Atualmente estou desenvolvendo projeto para aplicação mobile em React-Native
 - 🌱 Estudando React-Native/JavaScript e Java 
 - 📚 Sou estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/campus/paulista)
 
