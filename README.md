@@ -1,8 +1,7 @@
 ### Olá, meu nome é Eduardo 👋
 
 
-- 🔭 Atualmente estou desenvolvendo projeto para aplicação mobile em React-Native
-- 🌱 Estudando React-Native/JavaScript e Java 
+- 🌱 Atualmente estou estudando Spring Boot e React
 - 📚 Sou estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/campus/paulista)
 
 
@@ -14,15 +13,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Edu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Edu-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Edu-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Edu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<h3 align="left">Linguagens e ferramentas:</h3>
+  
+[![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,react,java,spring,css,html,mysql)](https://skillicons.dev)
 
 </div>
 
  ##
- 
+<h3 align="left">Contatos:</h3>
 <div> 
 
   <a href = "mailto:ejsilva159@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
