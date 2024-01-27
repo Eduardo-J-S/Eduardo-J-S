@@ -2,7 +2,7 @@
 
 
 - 🌱 Atualmente estou estudando Spring Boot e React
-- 📚 Sou estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/campus/paulista)
+- 📚 Sou estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/paulista/)
 
 
 <div align="center">
@@ -15,12 +15,12 @@
 <div style="display: inline_block"><br>
 <h3 align="left">Linguagens e ferramentas:</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,react,java,spring,css,html,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,react,java,spring,css,html,mysql,postgres)](https://skillicons.dev)
 
 </div>
 
  ##
-<h3 align="left">Contatos:</h3>
+<h3 align="left">Contato:</h3>
 <div> 
 
   <a href = "mailto:ejsilva159@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
