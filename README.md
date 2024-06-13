@@ -6,7 +6,10 @@
 - Fui um dos desenvolvedores do projeto [Um jogo para divulgação do IFPE Campus Paulista](https://ifpe-paulista-rodrigo.github.io/jogo-ifpe/index.html)
 - 📚 Sou estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/paulista/)
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+
+![](https://komarev.com/ghpvc/?username=Eduardo-J-S&abbreviated=true)
+
 <h3 align="left">Linguagens e ferramentas:</h3>
   
 [![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,react,java,spring,css,html,mysql,postgres)](https://skillicons.dev)
