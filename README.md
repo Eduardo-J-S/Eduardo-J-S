@@ -1,5 +1,6 @@
 ### Olá, meu nome é Eduardo 👋
 
+![](https://komarev.com/ghpvc/?username=Eduardo-J-S&abbreviated=true)
 
 - 🌱 Estudando Spring Boot, Java, JavaScript e Node.js
 - Estou participando do FAP (Formação Acelerada em Programação) Back-End JavaScript/Node.js
@@ -7,9 +8,7 @@
 - 📚 Sou estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/paulista/)
 
 <div style="display: inline_block">
-
-![](https://komarev.com/ghpvc/?username=Eduardo-J-S&abbreviated=true)
-
+  
 <h3 align="left">Linguagens e ferramentas:</h3>
   
 [![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,react,java,spring,css,html,mysql,postgres)](https://skillicons.dev)
