@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Eduardo-J-S&abbreviated=true)
 
-- 🌱 Estudando Spring Boot, Java, JavaScript e Node.js
+- 🌱 Estudando Spring Boot, Java, JavaScript/TypeScript e Node.js
 - Estou participando do FAP (Formação Acelerada em Programação) Back-End JavaScript/Node.js
 - Fui um dos desenvolvedores do projeto [Um jogo para divulgação do IFPE Campus Paulista](https://ifpe-paulista-rodrigo.github.io/jogo-ifpe/index.html)
 - 📚 Sou estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/paulista/)
