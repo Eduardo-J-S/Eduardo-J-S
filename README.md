@@ -11,7 +11,7 @@
   
 <h3 align="left">Linguagens e ferramentas:</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,react,java,spring,css,html,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,nodejs,react,java,spring,css,html,mysql,postgres,mongodb,vscode)](https://skillicons.dev)
 
 </div>
 
