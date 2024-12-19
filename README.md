@@ -4,7 +4,7 @@
 
 ## 📚 Sobre mim 
 Estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/paulista/), movido pela curiosidade e pelo desejo de transformar ideias em soluções tecnológicas.
-## 🌱 Explorando e Aprendendo:
+
 - 🚀 Explorando novas fronteiras na programação com Kotlin, IA, TypeScript, Node.js
 
 - 📚 Estou sendo monitor da disciplina de Desenvolvimento de Sistemas Web II
