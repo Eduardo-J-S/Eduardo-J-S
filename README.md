@@ -2,23 +2,31 @@
 
 ![](https://komarev.com/ghpvc/?username=Eduardo-J-S&abbreviated=true)
 
-- 🌱 Estudando Spring Boot, Java, JavaScript/TypeScript e Node.js
-- Estou participando do FAP (Formação Acelerada em Programação) Back-End JavaScript/Node.js
-- Fui um dos desenvolvedores do projeto [Um jogo para divulgação do IFPE Campus Paulista](https://ifpe-paulista-rodrigo.github.io/jogo-ifpe/index.html)
-- 📚 Sou estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/paulista/)
+## 📚 Sobre mim 
+Estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/paulista/), movido pela curiosidade e pelo desejo de transformar ideias em soluções tecnológicas.
+## 🌱 Explorando e Aprendendo:
+- 🚀 Explorando novas fronteiras na programação com Kotlin, IA, TypeScript, Node.js
+
+- 📚 Estou sendo monitor da disciplina de Desenvolvimento de Sistemas Web II
+
+- 🎮 Fui um dos desenvolvedores do projeto [Um jogo para divulgação do IFPE Campus Paulista](https://ifpe-paulista-rodrigo.github.io/jogo-ifpe/index.html)
+
+- Pode encontrar mais sobre meus projetos no meu portfolio https://eduardo-j-s.github.io/
+
+- 📧 Se precisar entrar em contato comigo, envie um e-mail para ejs15@discente.ifpe.edu.br
+
 
 <div style="display: inline_block">
   
-<h3 align="left">Linguagens e ferramentas:</h3>
+## 🛠️ Linguagens e ferramentas 
   
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,nodejs,react,java,spring,css,html,mysql,postgres,mongodb,vscode)](https://skillicons.dev)
 
 </div>
 
-<h3 align="left">Contato:</h3>
+<h3 align="left">Redes sociais:</h3>
 <div> 
 
-  <a href = "mailto:ejsilva159@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-s-890729aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
  
