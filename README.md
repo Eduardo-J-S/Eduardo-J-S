@@ -1,7 +1,5 @@
 ### Olá, meu nome é Eduardo 👋
 
-![](https://komarev.com/ghpvc/?username=Eduardo-J-S&abbreviated=true)
-
 ## 📚 Sobre mim 
 Estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/paulista/), movido pela curiosidade e pelo desejo de transformar ideias em soluções tecnológicas.
 
@@ -24,6 +22,7 @@ Estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/paulista/), movid
 
 </div>
 
+
 <h3 align="left">Redes sociais:</h3>
 <div> 
 
@@ -32,8 +31,13 @@ Estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/paulista/), movid
  
 </div>
 
+## 📈 GitHub Stats
+
 <div align="left">
   <a href="https://github.com/Eduardo-J-S">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-J-S&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-J-S&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+## 🤝 Vamos nos conectar!
+Sinta-se à vontade para entrar em contato comigo se quiser colaborar em projetos ou apenas bater um papo sobre tecnologia!
