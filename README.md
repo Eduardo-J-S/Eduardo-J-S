@@ -23,11 +23,6 @@ Estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/paulista/), movid
 </div>
 
 
-<h3 align="left">Redes sociais:</h3>
-<div> 
-
-  <a href="https://www.linkedin.com/in/eduardo-s-890729aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
  
 </div>
 
