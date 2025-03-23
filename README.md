@@ -3,11 +3,11 @@
 ## 📚 Sobre mim 
 Estudante do [IFPE campus paulista](https://portal.ifpe.edu.br/paulista/), movido pela curiosidade e pelo desejo de transformar ideias em soluções tecnológicas.
 
-- 🚀 Explorando novas fronteiras na programação com Kotlin, IA, TypeScript, Node.js
+- 🚀 Estudando Node.js e TypeScript. 
 
-- 📚 Estou sendo monitor da disciplina de Desenvolvimento de Sistemas Web II
+- 📚 Atuando como residente na [SISTEMAS BEM VIVENDO DE INFORMATICA](https://www.linkedin.com/company/sistemas-bem-vivendo-de-informatica-ltda/), com foco no desenvolvimento backend.
 
-- 🎮 Fui um dos desenvolvedores do projeto [Um jogo para divulgação do IFPE Campus Paulista](https://ifpe-paulista-rodrigo.github.io/jogo-ifpe/index.html)
+- 🎮 Fui um dos desenvolvedores no projeto [Um jogo para divulgação do IFPE Campus Paulista](https://ifpe-paulista-rodrigo.github.io/jogo-ifpe/index.html)
 
 - Pode encontrar mais sobre meus projetos no meu portfolio https://eduardo-j-s.github.io/
 
